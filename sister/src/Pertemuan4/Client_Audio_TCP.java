@@ -26,7 +26,7 @@ import sun.audio.AudioStream;
 
 /**
  *
- * @author cynux
+ *
  */
 public class Client_Audio_TCP extends javax.swing.JFrame {
 

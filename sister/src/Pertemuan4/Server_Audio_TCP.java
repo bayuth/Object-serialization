@@ -19,7 +19,7 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 
 /**
  *
- * @author cynux
+ * 
  */
 public class Server_Audio_TCP extends javax.swing.JFrame {
 
